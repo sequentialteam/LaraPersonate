@@ -7,3 +7,8 @@ phpunit.xml     export-ignore
 /tests          export-ignore
 /.github        export-ignore
 /database       export-ignore
+
+package.json     export-ignore
+yarn.lock        export-ignore
+webpack.mix.js   export-ignore
+/resources/asset export-ignore
